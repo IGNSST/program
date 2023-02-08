@@ -12,7 +12,7 @@ body{
     height: 30em;
     border: 1px solid white;
 }
-.stats{
+#stats{
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-left: 10%;
